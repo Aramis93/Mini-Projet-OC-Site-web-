@@ -1,0 +1,424 @@
+* {
+  margin: 0;
+}
+span.ma-classe{
+  color: #a5b4fc;
+  font-weight: bold;
+  padding: 10px;
+  text-align: justify;
+  width: 400px;
+}
+
+.head {
+  background-color: #1F2039;
+  padding: 10px;
+  padding-bottom: 100px;
+  padding-left: 20%;
+
+}
+
+#logo{
+  width: 70px;
+  height: 30px;
+  margin-left: 30px;
+ 
+}
+
+
+
+
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Protest Riot", sans-serif;
+}
+
+main {
+  margin-bottom: 80px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5em;
+}
+
+h2 {
+  color: #f9f8ff;
+  font-family: 'Montserrat', sans-serif;
+  font-size:x-large;
+}
+
+.titre {
+  color: #a5b4fc;
+  size: 55px;
+  font-weight: 400;
+  line-height: 67.05px;
+ margin-bottom: 20px;
+  margin-top: 0px;
+  margin-left: -4px;
+}
+
+
+.titre1 {
+  color: #a5b4fc;
+  font-weight: 400; 
+  margin-bottom: -20px;
+}
+
+
+p , ul{
+  color: white;
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+
+
+.contact{
+  background: linear-gradient(#8e86b5, #acaeed);
+  max-width: max-content;
+  border-radius: 50px;
+  padding: 20px 30px;
+  margin-top: 30px;
+  margin-bottom: -80px;
+  margin-left:-4px;
+}
+
+.contact1{
+  background: linear-gradient(#8e86b5, #acaeed);
+  text-align: center;
+  display: inline-block;
+  border-radius: 50px;
+  padding: 20px 20px;
+  margin-left:44%;
+}
+
+.d {
+  background-color: white;
+  max-height: fit-content;
+  padding: 20px 50px;
+}
+
+.titre3 {
+font-family: 'Montserrat', sans-serif;
+font-size: 35px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.titre4 {
+font-family: 'Montserrat', sans-serif;
+font-size: 35px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: center;
+font-weight: bold;
+color: #a5b4fc;
+padding-top: 50px;
+}
+
+
+
+
+.pic {
+  border-radius: 100% 0% 100% 0% / 0% 100% 0% 100% ;
+  width: 419px;
+  height: 425px;
+
+}
+
+.cadre {
+  border-right: 1px solid #8e86b5;
+  padding: 50px;
+  border-bottom: 1px solid  #8e86b5;
+}
+
+
+
+a:hover {
+  color:#28287a
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+
+
+
+img:hover {
+  opacity: 0.5;
+}
+
+
+.foot {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.fa-twitter {
+  color: skyblue;
+  font-size: 50px;
+}
+    
+    
+
+
+.mainapro {
+  width: 50%;
+  margin: auto 0;
+  margin-left: 480px;
+  margin-bottom: 150px;
+}
+
+
+.titrep{
+  background-color:   #1F2039;
+
+}
+
+.titreport{
+  margin-left: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #a5b4fc;
+  size: 55px;
+  font-weight: 400;
+  line-height: 67.05px;
+}
+
+.apropos{
+  background-color: #1F2039;
+}
+
+
+.container {
+  display: flex;
+  direction: row;
+  gap: 20px;
+  justify-content: center;
+  height: 311px;
+}
+
+.container0 {
+ display: flex; 
+ flex-direction: row;
+ gap: 180px;
+ padding-top: 60px;
+
+}
+
+
+
+
+
+.projet {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+
+.conjet {
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+
+
+
+.containerliens  {
+  display:flex;
+  gap: 150px;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+padding-bottom: 25px;
+margin-top: 28px;
+
+}
+.containerliens0  {
+display:flex;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+background-color: white;
+justify-content: space-between;
+padding-top:30px;
+padding-bottom: 2%;
+}
+
+.containerliens0f  {
+display:flex;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+background-color: white;
+justify-content: space-between;
+gap:10px;
+padding-top:30px;
+padding-bottom: 2%;
+}
+
+.link {
+font-family: 'Manrope';
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+}
+
+
+
+.liensrestants {
+  display: flex;
+  gap:150px;
+  margin-right: 60px;
+}
+
+.liensrestantsf {
+  display: flex;
+  gap:30px;
+  margin-right: 60px;
+}
+
+
+.Formulaire{
+  background-color: #1F2039;
+  margin-top: 183px;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+.nom{
+  width: 253px;
+  height: 62px;
+  margin-top:10px;
+}
+
+.tes {
+  font-family: "Madimi One", sans-serif;
+}
+
+.tform{
+  color: white;
+  font-family: 'Manrope';
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.message{
+  width:615px;
+  height: 200px;
+}
+
+
+.grform{
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 0.1fr auto;
+  grid-column-gap: 100px;
+  margin-top: 50px;
+  grid-row-gap: 40px;}
+
+
+.msg{
+  grid-column: 1 / span 2;
+}
+
+
+.Envoie{
+  background: linear-gradient(#8e86b5, #acaeed);
+  text-align: center;
+  border-radius: 50px;
+  padding: 20px 60px;
+  margin-left:46%;
+  margin-top: 30px;
+  font-family: 'Manrope';
+  color:white;
+  border:none;
+  font-size: 15px;
+}
+
+.reseau{
+  font-size: 30px;
+}
+
+
+
+.photos{
+  display: flex;
+  direction: row;
+  gap: 10px;
+  margin-top: 120px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+.photos1{
+  display: flex;
+  direction: row;
+  gap: 10px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
+  
+}
+.photo_apropos{
+width: 192.25px;
+height:195px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
